@@ -16,7 +16,7 @@ Import this repository into Vercel. Framework preset: **Other**. Build command: 
 
 ## Publish the APK
 Create a GitHub Release and attach the signed APK using the exact filename:
-`pathshala-ai.apk`
+`app-bundle`
 
 The page's download button currently opens the latest release page. Once the release has the APK attached, change its URL to:
 `https://github.com/sowjithanumola/pathashala-ai-download/releases/latest/download/pathshala-ai.apk`
